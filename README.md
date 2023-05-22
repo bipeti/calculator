@@ -1,4 +1,3 @@
 # React Calculator
 
-Calculator project built with React.
-
+Calculator project built with React!
