@@ -1,0 +1,18 @@
+button {
+    background-color: #f6f6f6;
+    border: 1px solid black;
+    border-radius: 12px;
+    font: 20px bold, "Noto Sans JP", sans-serif;
+}
+
+button:hover {
+    background-color: #cdc7c7;
+}
+
+.equalsign {
+    background-color: #47a6f9;
+}
+
+.equalsign:hover {
+    background-color: #1975c5;
+}
