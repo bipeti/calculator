@@ -1,7 +1,8 @@
 .screendetails {
     height: 30px;
-    /* border-bottom: 1px solid black; */
-    text-align: right;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
     color: gray;
     margin: 10px 10px 0px;
 }

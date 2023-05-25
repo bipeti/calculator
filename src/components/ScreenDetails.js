@@ -1,10 +1,11 @@
+import { Textfit } from "react-textfit";
 import classes from "./ScreenDetails.module.css";
 
 const ScreenDetails = (props) => {
     return (
-        <div className={classes.screendetails}>
-            <p>{props.value}</p>
-        </div>
+        <Textfit className={classes.screendetails} mode="single" max={17}>
+            {props.value}
+        </Textfit>
     );
 };
 
