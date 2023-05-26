@@ -1,18 +1,19 @@
 button {
-    background-color: #f6f6f6;
+    background-color: #44355b;
+    color: white;
     border: 1px solid black;
     border-radius: 12px;
     font: 20px bold, "Noto Sans JP", sans-serif;
 }
 
 button:hover {
-    background-color: #cdc7c7;
+    background-color: #31263e;
 }
 
 .equalsign {
-    background-color: #47a6f9;
+    background-color: #ee5622;
 }
 
 .equalsign:hover {
-    background-color: #1975c5;
+    background-color: #eca72c;
 }
